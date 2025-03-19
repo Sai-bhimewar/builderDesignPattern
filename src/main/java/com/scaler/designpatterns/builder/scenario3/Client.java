@@ -10,7 +10,7 @@ public class Client {
                 .setPsp(90.3)
                 .setUniversity("Pune")
                 .setPhone("1234567890")
-                .setGradeYear(2023)
+                .setGradeYear(2021)
                 .build();
         System.out.println(st);
 
