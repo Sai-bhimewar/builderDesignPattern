@@ -53,5 +53,6 @@ public class Client {
         Button button=factory.createButton();
         button.click();
         menu.showOptions();
+        
     }
 }
